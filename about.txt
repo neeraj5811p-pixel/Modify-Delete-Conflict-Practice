@@ -1,2 +1,4 @@
 This is Git project
 I am learning Git and github, PR and conflict Resolutuin 
+we are learning git and github 
+
